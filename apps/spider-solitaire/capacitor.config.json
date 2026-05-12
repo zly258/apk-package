@@ -1,0 +1,9 @@
+{
+  "appId": "com.zly258.spidersolitaire",
+  "appName": "蜘蛛纸牌",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
